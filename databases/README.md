@@ -1,5 +1,8 @@
 # DSR - Databases
 
+## SQL notes: https://docs.google.com/presentation/d/1k-znAYQgUSn-7eVki45w3bfIL3HeFtN77oO9PDCUx-4/edit#slide=id.p
+server, https://sqlbolt.com/
+
 ### Creating a Conda Environment for this course
 
 ```
